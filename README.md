@@ -25,6 +25,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekya19&layout=compact)
 
+[![Sai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alekya19)](https://github.com/alekya19)
+
 ## 🚀 Featured Projects
 
 ### Banking Loan Management System
