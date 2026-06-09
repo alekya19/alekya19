@@ -28,11 +28,6 @@
 
 ## 🚀 Featured Projects
 
-### Banking Loan Management System
-Enterprise loan management platform with customer onboarding, approval workflows, JWT security, and reporting dashboards.
+- Banking Loan Management System
+- Modern Portfolio Website
 
-### Modern Portfolio Website
-Angular + GSAP + Three.js portfolio with modern animations and interactive UI.
-
-### Enterprise Task Management Platform
-Production-style task management solution with RBAC, analytics, and workflow automation.
