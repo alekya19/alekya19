@@ -31,11 +31,38 @@
 - Banking Loan Management System
 - Modern Portfolio Website
 
-## 🛠️ Things I Use
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,java,spring,nodejs,express,postgres,mysql,mongodb,aws,docker,git,github,vscode,postman,firebase,figma" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" height="40" />
 </p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" height="40" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="40" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,firebase,figma" height="40" />
+</p>
+
 
 ## 🌐 Connect With Me
 
