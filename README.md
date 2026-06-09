@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=alekya19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekya19&show_icons=true&theme=default)
-
 ### Full Stack Developer | Angular | Spring Boot | AI Enthusiast
 
 🔭 Currently building Banking Loan Management System
