@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alekya19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" width="320" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### Full Stack Developer | Angular | Spring Boot | AI Enthusiast
 
