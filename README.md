@@ -2,68 +2,29 @@
 
 ### Senior Full Stack Developer | Angular | Spring Boot | Enterprise Applications
 
-Building scalable enterprise applications, analytics platforms, and modern web experiences.
+🔭 Currently building Banking Loan Management System
+
+🏦 Experience in Banking & Financial Services
+
+💼 Angular • TypeScript • Spring Boot • Java • PostgreSQL
+
+📊 AG Grid • Highcharts • Analytics Dashboards
+
+☁️ AWS • Docker • CI/CD
+
+🌐 Portfolio: https://sai-alekya.vercel.app
 
 ---
-
-🔭 Currently building **Banking Loan Management System**
-
-🏦 Experience delivering solutions for Banking & Financial Services clients
-
-🌱 Exploring **System Design, Cloud Architecture, and AI-powered Applications**
-
-👨‍💻 Portfolio: https://sai-alekya.vercel.app
-
-💬 Ask me about **Angular, TypeScript, Spring Boot, Java, AG Grid, Highcharts, REST APIs**
-
-📫 Reach me on LinkedIn
-
----
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekya19&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekya19&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=600&lines=Senior+Full+Stack+Developer;Angular+Developer;Spring+Boot+Developer;Enterprise+Application+Engineer)](https://git.io/typing-svg)
 ## 🚀 Featured Projects
 
 ### Banking Loan Management System
-
-Enterprise banking platform featuring customer onboarding, loan workflows, role-based access control, JWT authentication, document management, and reporting dashboards.
+Enterprise loan management platform with customer onboarding, approval workflows, JWT security, and reporting dashboards.
 
 ### Modern Portfolio Website
-
-Interactive portfolio built using Angular, GSAP, Three.js, and modern animation techniques.
+Angular + GSAP + Three.js portfolio with modern animations and interactive UI.
 
 ### Enterprise Task Management Platform
-
-Production-style task management solution with authentication, analytics, workflow automation, and role management.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-Angular • TypeScript • JavaScript • RxJS • HTML5 • CSS3 • Bootstrap • AG Grid • Highcharts
-
-### Backend
-
-Java • Spring Boot • Spring Security • JWT • REST APIs • Node.js
-
-### Database
-
-PostgreSQL • SQL Server • MySQL
-
-### Cloud & DevOps
-
-AWS • Docker • Git • GitHub • CI/CD
-
----
-
-## 📈 GitHub Stats
-
-(Add GitHub Stats Cards Here)
-
-## 🌐 Connect With Me
-
-Portfolio: https://sai-alekya.vercel.app
-
-GitHub: https://github.com/alekya19
-
-LinkedIn: https://linkedin.com/in/sai-alekya/
+Production-style task management solution with RBAC, analytics, and workflow automation.
