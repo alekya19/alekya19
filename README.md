@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alekya19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img align="right" alt="Developer Girl" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" alt="Developer Girl" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ### Full Stack Developer | Angular | Spring Boot | AI Enthusiast
 
