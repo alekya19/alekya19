@@ -37,3 +37,18 @@
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,java,spring,nodejs,express,postgres,mysql,mongodb,aws,docker,git,github,vscode,postman,firebase,figma" />
 </p>
 
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:saialekyag@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sai-alekya/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://sai-alekya.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
