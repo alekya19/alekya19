@@ -19,7 +19,8 @@
 🌐 Portfolio: https://sai-alekya.vercel.app
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alekya19&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alekya19)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekya19&layout=compact)
 
 ## 🚀 Featured Projects
