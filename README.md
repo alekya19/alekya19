@@ -31,3 +31,9 @@
 - Banking Loan Management System
 - Modern Portfolio Website
 
+## 🛠️ Things I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,java,spring,nodejs,express,postgres,mysql,mongodb,aws,docker,git,github,vscode,postman,firebase,figma" />
+</p>
+
