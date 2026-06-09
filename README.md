@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=alekya19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekya19&layout=compact)
-
 ### Full Stack Developer | Angular | Spring Boot | AI Enthusiast
 
 🔭 Currently building Banking Loan Management System
