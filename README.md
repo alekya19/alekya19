@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alekya19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<img align="right" width="260" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" />
 ### Full Stack Developer | Angular | Spring Boot | AI Enthusiast
 
 🔭 Currently building Banking Loan Management System
