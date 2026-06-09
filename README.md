@@ -1,7 +1,5 @@
 # Hi 👋, I'm Sai Alekya Gontina
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=600&lines=Senior+Full+Stack+Developer;Angular+Developer;Spring+Boot+Developer;Enterprise+Application+Engineer)](https://git.io/typing-svg)
-### Senior Full Stack Developer | Angular | Spring Boot | Enterprise Applications
-
 🔭 Currently building Banking Loan Management System
 
 🏦 Experience in Banking & Financial Services
