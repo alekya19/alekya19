@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&width=800&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+Developer;Building+Enterprise+Applications;AI+Enthusiast)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=alekya19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<img alt="Developer" width="240" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<img align="right" alt="Developer" width="280" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 ### Full Stack Developer | Angular | Spring Boot | AI Enthusiast
 
 🔭 Currently building Banking Loan Management System
