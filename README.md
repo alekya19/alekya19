@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alekya19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img align="right" width="260" src="https://cdn-icons-png.flaticon.com/512/6997/6997662.png" />
+<img align="right" alt="Developer" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 ### Full Stack Developer | Angular | Spring Boot | AI Enthusiast
 
 🔭 Currently building Banking Loan Management System
